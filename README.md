@@ -1,4 +1,5 @@
-### Hi there 👋
+### HeeRyeong Song
+안녕하세요! 백엔드 개발자 및 데이터 분석가를 꿈꾸는 송희령 입니다.
 
 <!--
 **yooatom2200/yooatom2200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
