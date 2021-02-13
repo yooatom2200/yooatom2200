@@ -5,7 +5,10 @@
 <image src = https://user-images.githubusercontent.com/64974480/107155416-9a180b80-69bb-11eb-8cf0-a3c2c8aca96b.png width = "30" height = "30"> Facebook : https://www.facebook.com/yooatom2200
   
 <image src = https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png width = "30" height = "30"> Instagram : https://www.instagram.com/yooatom2200
-------  
+<br><br>
+
+INDEX🧑🏻‍💻
+---
 <h3>● 🧑🏻‍🎓 학부 1-4학년</h3>
 2016-2021 Repo
 
